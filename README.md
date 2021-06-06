@@ -1,3 +1,10 @@
-『밑바닥부터 시작하는 딥러닝』(한빛미디어, 2017)의 책의 소스코드를 학습한 저장소입니다.
+『[밑바닥부터 시작하는 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)』소스 코드를 학습한 저장소입니다.
+『밑바닥부터 시작하는 딥러닝』의 깃허브 저장소 : <https://github.com/WegraLee/deep-learning-from-scratch>
 
-(『밑바닥부터 시작하는 딥러닝』의 깃허브 저장소는 이곳입니다.)
+## Chapter3
+- step function
+- sigmoid function
+- leru function
+- softmax function
+- MNIST dataset
+
