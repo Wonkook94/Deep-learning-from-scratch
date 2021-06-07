@@ -8,5 +8,6 @@
 - sigmoid function
 - leru function
 - softmax function
-- MNIST dataset
-
+- Load MNIST dataset
+- Neural Network Infer
+- Batch
