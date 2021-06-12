@@ -11,3 +11,8 @@
 - Load MNIST dataset
 - Neural Network Infer
 - Batch
+
+## Chater4
+- 오차제곱합 (Sum of Squares Error, SSE)
+- 교차 엔트로피 오차 (Cross Entropy Error, CEE)
+- 미니배치 학습
