@@ -16,3 +16,7 @@
 - 오차제곱합 (Sum of Squares Error, SSE)
 - 교차 엔트로피 오차 (Cross Entropy Error, CEE)
 - 미니배치 학습
+- 수치 미분
+- 경사하강법
+- 신경망에서의 기울기
+- 학습 알고리즘 구현
